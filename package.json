@@ -1,0 +1,23 @@
+{
+  "name": "printo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.6.3",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jade": "~1.11.0",
+    "morgan": "^1.8.2",
+    "nodemailer": "^4.0.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "serve-favicon": "^2.4.3",
+    "stream": "0.0.2",
+    "xoauth2": "^1.2.0"
+  }
+}
