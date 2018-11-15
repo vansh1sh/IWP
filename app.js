@@ -36,7 +36,7 @@ app.post('/hash',function (req,res) {
         service: 'Gmail',
         auth: {
             user: 'snap.printo@gmail.com',
-            pass: 'Fantastisk Sammen.'
+            pass: 'printo@1234'
         }
     });
 
